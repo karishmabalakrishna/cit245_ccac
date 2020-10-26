@@ -123,6 +123,6 @@ int main() {
   in_order_tree_walk(root);
    cout <<'\n';
 deleteValue(root, "Security Officer");
-cout << "Succesfully deleted Security Officer. The final tree structure is: " << '\n' <<'\n';
+cout << "Succesfully deleted Security Officer. The final tree structure is: " << '\n';
   in_order_tree_walk(root);
 }
